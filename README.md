@@ -32,3 +32,7 @@
   <a href="https://www.linkedin.com/in/pedrogchagas" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/pedrogchagas"/>
 </p>
+ 
+ <div>
+ ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+ </div>
