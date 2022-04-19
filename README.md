@@ -33,6 +33,5 @@
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/pedrogchagas"/>
 </p>
  
- <div>
+
  ![snake gif](https://github.com/pedrogchagas/pedrogchagas/blob/output/github-contribution-grid-snake.gif)
- </div>
