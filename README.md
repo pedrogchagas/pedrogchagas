@@ -1,5 +1,3 @@
-<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
-
 <p align="left"> 
  🖖 Olá, meu nome é Pedro Chagas. Sou <strong>Estagiário de desenvolvimento de software na Idera Tecnologia</strong>.
 </p>
