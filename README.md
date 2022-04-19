@@ -1,19 +1,25 @@
-### Hi there 👋
+<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
 
-[![card](https://github-readme-stats.vercel.app/api?username=pedrogchagas&theme=default&show_icons=true)](https://github.com/pedrogchagas/)
-[![pedrogchagas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogchagas&hide=html&layout=compact=true&theme=default)](https://github.com/pedrogchagas/)
+<p align="left"> 
+ 🖖 Olá, meu nome é Pedro Chagas. Sou <strong>Estagiário de desenvolvimento de software na Idera Tecnologia</strong>.
+</p>
 
-<!--
-**pedrogchagas/pedrogchagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+ ☕ Habilidades: <strong>HTML, CSS, C# e SQL.</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  💼 Ferramentas: <strong>VS Code, Azure Dev Ops, VS Community, Microsoft SQL Server Management Studio e GitHub.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+<p align="left">
+  <a href="https://www.instagram.com/pedrogchagas/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/pedrogchagas"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/pedrogchagas" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/pedrogchagas"/>
+</p>
