@@ -1,5 +1,5 @@
 <p align="left"> 
- 🖖 Olá, meu nome é Pedro Chagas. Sou <strong>Estagiário de desenvolvimento de software na Idera Tecnologia</strong>.
+ 🖖 Olá, meu nome é Pedro Henrique Gomes Chagas. Sou <strong>Estagiário de desenvolvimento de software na Idera Tecnologia</strong>.
 </p>
 
 <p align="left">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Azure Dev Ops, VS Community, Microsoft SQL Server Management Studio e GitHub.</strong>
+  💼 Ferramentas: <strong>VS Code, Azure Dev Ops, VS Community, SQL Server Management Studio e GitHub.</strong>
 </p>
 
 
