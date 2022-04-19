@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![card](https://github-readme-stats.vercel.app/api?username=pedrogchagas&theme=default&show_icons=true)](https://github.com/pedrogchagas/)
-
+[![pedrogchagas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogchagas&hide=html&layout=compact=true&theme=default)](https://github.com/pedrogchagas/)
 
 <!--
 **pedrogchagas/pedrogchagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
