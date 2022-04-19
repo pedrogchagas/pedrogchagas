@@ -1,9 +1,10 @@
 <div align="center">
   <a href="https://github.com/pedrogchagas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogchagas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogchagas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogchagas&show_icons=true&theme=Tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogchagas&layout=compact&langs_count=7&theme=Tokyonight"/>
 </div>
 
+  ##
   
 <p align="left"> 
  🖖 Olá, meu nome é Pedro Chagas. Sou <strong>Estagiário de desenvolvimento de software na Idera Tecnologia</strong>.
