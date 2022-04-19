@@ -4,6 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogchagas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  
 <p align="left"> 
  🖖 Olá, meu nome é Pedro Chagas. Sou <strong>Estagiário de desenvolvimento de software na Idera Tecnologia</strong>.
 </p>
