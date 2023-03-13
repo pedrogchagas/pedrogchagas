@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, C# e SQL.</strong>
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, C# e SQL.</strong>
 </p>
 
 <p align="left">
