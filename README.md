@@ -1,13 +1,13 @@
 <p align="left"> 
- 🖖 Olá, meu nome é Pedro Henrique Gomes Chagas. Sou <strong>Estagiário de desenvolvimento de software na Idera Tecnologia</strong>.
+ 🖖 Hi, I am a Full stack intern at Idera, focused in software development and software testing with C#.
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, C# e SQL.</strong>
+ ☕ Technical Skills: <strong> C# / MySQL / SQL Server / HTML5 / CSS3 / Azure DevOps Server / ASP.NET MVC / Entity Framework / .NET Framework </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Azure Dev Ops, VS Community, SQL Server Management Studio e GitHub.</strong>
+  💼 Tools: <strong>VS Code / Azure Dev Ops / VS Community / SQL Server Management Studio MySQL / GitHub.</strong>
 </p>
 
 
