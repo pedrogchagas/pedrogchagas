@@ -1,9 +1,9 @@
 <p align="left"> 
- 🖖 Hi, I am a Full stack intern at Idera, focused in software development and software testing with C#.
+ 🖖 Hi, I am a Software Developer at Grupo Autoglass, focused in software development and software testing with C#.
 </p>
 
 <p align="left">
- ☕ Technical Skills: <strong> C# / MySQL / SQL Server / HTML5 / CSS3 / Azure DevOps Server / ASP.NET MVC / Entity Framework / .NET Framework </strong>
+ ☕ Technical Skills: <strong> C# / Angular / MySQL / SQL Server / Azure DevOps Server / Git / ASP.NET MVC / Entity Framework / .NET Framework </strong>
 </p>
 
 <p align="left">
