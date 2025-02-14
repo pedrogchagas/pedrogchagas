@@ -1,5 +1,5 @@
 <p align="left"> 
- 🖖 Hi, I am a Software Developer at Grupo Autoglass, focused in software development and software testing with C#.
+ 🖖 Hi, I am a Software Engineer, focused in software development and software testing with C#.
 </p>
 
 <p align="left">
